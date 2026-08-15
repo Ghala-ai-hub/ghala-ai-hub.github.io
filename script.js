@@ -12,23 +12,21 @@ const translations = {
 
         brandName: "Ghala Bander",
 
-        heroLabel: "Artificial Intelligence Portfolio",
-
-        heroGreeting: "Hello, I'm",
+        heroLabel: "AI Engineering Portfolio",
 
         name: "Ghala Bander",
 
         role: "AI Engineer",
 
         heroDescription:
-            "Artificial Intelligence graduate with hands-on experience in machine learning, RAG systems, computer vision, IoT, and AI-powered application development.",
+            "Artificial Intelligence graduate with hands-on project experience in machine learning, data analysis, retrieval-augmented generation (RAG), computer vision, and AI application development.",
 
         viewProjects: "View Projects",
 
         downloadCV: "Download CV",
 
         availability:
-            "Open to opportunities and relocation across Saudi Arabia",
+            "Open to AI, data, and technology roles across Saudi Arabia; willing to relocate.",
 
         profileRole: "AI Engineer",
 
@@ -52,22 +50,19 @@ const translations = {
         aboutLabel: "Professional Profile",
         aboutTitle: "About Me",
         aboutSubtitle:
-            "A brief overview of my background, education, and professional direction.",
+            "An overview of my academic background, technical experience, and career focus.",
 
         aboutHeadline:
-            "Turning artificial intelligence into practical solutions",
+            "Applying AI, data, and development to practical challenges",
 
         aboutParagraphOne:
-            "Artificial Intelligence graduate from the University of Hail with First Class Honors and a GPA of 3.907 out of 4. I focus on building practical solutions using machine learning, retrieval-augmented generation, computer vision, backend APIs, and data-driven problem solving.",
-
+        "Artificial Intelligence graduate from the University of Hail with First Class Honors and a GPA of 3.907 / 4.00. My project-based experience spans machine learning, data analysis, retrieval-augmented generation (RAG), computer vision, and AI application development, using tools including Python, SQL, FastAPI, REST APIs, and MySQL.",
         aboutParagraphTwo:
-            "My project experience includes an AI-based hospital crisis training system, an intelligent plant care platform, and an IoT-enabled smart traffic dashboard. I enjoy transforming complex requirements into usable, well-documented solutions and collaborating effectively within teams.",
-
+        "My project portfolio includes an AI-based hospital crisis training system, an AI-powered plant care platform, and an IoT-enabled smart traffic monitoring dashboard. Through these projects, I have strengthened my ability to analyze requirements, develop practical and well-documented solutions, integrate AI capabilities with backend services, and collaborate effectively within teams.",
         careerFocusLabel: "Career Focus",
 
         careerFocusValue:
-            "AI Engineering and AI-Powered Application Development",
-
+        "AI Engineering, Machine Learning, and Data-Driven Solutions",
         degreeLabel: "Degree",
         degreeValue: "Bachelor of Artificial Intelligence",
 
@@ -87,6 +82,7 @@ const translations = {
 
         educationLabel: "Education",
         educationTitle: "Academic Background",
+        graduationYearLabel: "Graduated",
 
         educationDegree: "Bachelor of Artificial Intelligence",
         educationUniversity: "University of Hail",
@@ -102,24 +98,24 @@ const translations = {
         projectsTitle: "Featured Projects",
 
         projectsSubtitle:
-            "A selection of AI, machine learning, backend, and IoT projects developed through academic, training, and team-based experiences.",
+        "A selection of AI, machine learning, backend development, and IoT projects completed through academic work, cooperative training, and a professional bootcamp.",
 
         crisisType: "Graduation Project",
 
         crisisSubtitle:
-            "AI-Based Hospital Crisis Training System",
+        "AI-Enabled Hospital Crisis Training and Assessment Platform",
 
         crisisDescription:
-            "An intelligent training platform that generates hospital emergency scenarios, assigns role-based tasks, evaluates employee responses, and provides automated AI feedback.",
+        "An intelligent hospital crisis training and assessment platform that enables supervisors to generate emergency scenarios and assessment questions with AI, assign them to staff, and monitor performance. The system automatically scores submitted answers, then uses AI to provide feedback based on each employee’s results.",
 
         greenCareType:
             "Cooperative Training Project",
 
         greenCareSubtitle:
-            "AI-Powered Plant Health and Care Platform",
+        "AI-Powered Plant Care and Health Assessment Platform",
 
         greenCareDescription:
-            "A smart plant care platform that identifies plant conditions from uploaded images and provides personalized recommendations using user inputs, location, and weather data.",
+        "A sustainability-focused AI platform designed to address limited plant-care knowledge. Users upload a plant image and complete a health assessment covering factors such as lighting, leaf condition, and watering frequency. The platform uses AI and computer vision to identify the plant from the uploaded image, assess its condition, and provide personalized care recommendations based on the user’s inputs, location, and weather data.",
 
         nextrafficType:
             "AI and IoT Bootcamp Project",
@@ -128,7 +124,7 @@ const translations = {
             "Smart Traffic and IoT Monitoring Dashboard",
 
         nextrafficDescription:
-            "A smart mobility dashboard built with Cumulocity IoT to monitor intersections, congestion, signal timing, weather conditions, road status, and intelligent traffic alerts.",
+        "A smart traffic and IoT monitoring dashboard built with Cumulocity IoT to track intersections, congestion levels, traffic signal status, weather and road conditions, and real-time alerts for traffic and emergency events.",
 
         viewGitHub: "View on GitHub",
 
@@ -158,42 +154,42 @@ const translations = {
 
         nextButton: "Next", 
 
-        skillsLabel: "Technical Capabilities",
+        skillsLabel: "Core Capabilities",
 
         skillsTitle: "Skills and Technologies",
 
         skillsSubtitle:
-            "Technologies and professional capabilities developed through academic projects, practical training, bootcamps, and independent learning.",
+        "Technical and professional skills developed through academic projects, cooperative training, a professional bootcamp, and independent learning.",
 
         aiSkillsTitle:
-            "Artificial Intelligence",
+            "Artificial Intelligence and Machine Learning",
 
         aiSkillsDescription:
-            "Core artificial intelligence techniques used to build intelligent and data-driven systems.",
+        "AI and machine learning methods applied in projects involving language processing, computer vision, retrieval-augmented generation, and generative AI.",
 
         programmingSkillsTitle:
-            "Programming and Data",
+        "Programming and Data Analysis",
 
         programmingSkillsDescription:
-            "Programming and data tools used for analysis, development, and implementing AI solutions.",
+        "Programming languages and data tools used for analysis, data preparation, and AI solution development.",
 
         backendSkillsTitle:
-            "Backend and Databases",
+        "Backend Development and Databases",
 
         backendSkillsDescription:
-            "Backend technologies used to connect AI models, applications, APIs, and structured data.",
+        "Backend technologies used to build REST APIs, integrate AI capabilities into applications, and manage structured data.",
 
         toolsSkillsTitle:
-            "Tools and Web Technologies",
+        "Development Tools, Web, and IoT",
 
         toolsSkillsDescription:
-            "Development, collaboration, web, and IoT tools used throughout my technical projects.",
+        "Tools and technologies used for development, experimentation, version control, web interfaces, and IoT dashboards.",
 
         professionalSkillsTitle:
             "Professional Skills",
 
         professionalSkillsDescription:
-            "Professional capabilities that support effective technical work, teamwork, and project delivery.",
+        "Professional skills that support structured problem solving, clear technical documentation, effective collaboration, and reliable project delivery.",
 
         problemSolving:
             "Problem Solving",
@@ -212,12 +208,12 @@ const translations = {
 
         navExperience: "Experience",
 
-        experienceLabel: "Practical Background",
+        experienceLabel: "Applied Experience",
 
         experienceTitle: "Experience and Training",
 
         experienceSubtitle:
-            "Practical experiences that strengthened my technical, documentation, teamwork, and project development skills.",
+        "Hands-on training and project experience in data organization, technical documentation, AI application development, and team collaboration.",
 
         mewaExperienceType:
             "Cooperative Training",
@@ -235,25 +231,25 @@ const translations = {
             "28 Weeks",
 
         remoteWork:
-            "Remote",
+            "Online",
 
        mewaPointOne:
-        "Prepared project documentation, reports, and structured data updates using Excel.",
+        "Prepared project documentation, reports, and structured Excel updates to support data organization and reporting.",
 
         mewaPointTwo:
-            "Collaborated with the team on project planning, documentation, and presentation preparation.",
+        "Explored selected digital platforms used by the Ministry to understand their key functions and how they operate.",
 
         mewaPointThree:
-            "Contributed to the development of Green Care, an AI-powered platform for plant health assessment and personalized care recommendations.",
-            
+        "Contributed to developing a sustainability-focused AI solution for plant health assessment and personalized care recommendations.",
+
         experienceProjectLabel:
             "Associated Project",
 
         nitaExperienceType:
-            "AI and IoT Bootcamp",
+            "Professional Bootcamp",
 
         nitaRole:
-            "AI and IoT Bootcamp Trainee",
+            "AI & IoT Bootcamp Trainee",
 
         nitaOrganization:
             "National Information Technology Academy",
@@ -262,16 +258,19 @@ const translations = {
             "3-Month Bootcamp",
 
         nitaPointOne:
-            "Collaborated within a team to develop a smart traffic monitoring solution using Cumulocity IoT.",
+        "Collaborated within a team to develop an IoT-based smart traffic monitoring solution using Cumulocity IoT.",
 
         nitaPointTwo:
-            "Built dashboards for intersections, congestion, signal timing, road conditions, and weather data.",
+        "Contributed to building dashboards for monitoring intersections, congestion levels, traffic signal status, road conditions, and weather data.",
 
         nitaPointThree:
-            "Applied smart rules and alerts for congestion, wet roads, low visibility, and emergency events.",
+        "Configured smart rules and alerts for congestion, wet-road conditions, low visibility, and emergency-related events.",
 
         navCertifications:
         "Certifications",
+
+        navHonors:
+        "Honors",
 
         certificationsLabel:
             "Continuous Learning",
@@ -280,7 +279,7 @@ const translations = {
             "Certifications and Training",
 
         certificationsSubtitle:
-            "Selected certifications and professional training in artificial intelligence, cloud computing, data analytics, IoT, and machine learning.",
+        "Selected certifications, completed coursework, and professional training across artificial intelligence, cloud computing, data analytics, IoT, and machine learning.",
 
         cloudCategory:
             "Cloud Computing",
@@ -310,7 +309,7 @@ const translations = {
             "Completed in February 2024",
 
         nitaCompletedDate:
-            "Completed in October 2025",
+        "3-Month Bootcamp · Completed October 2025",
 
         fiveCompletedCourses:
             "5 Completed Courses",
@@ -319,13 +318,13 @@ const translations = {
             "2 Completed Courses",
 
         ibmSeriesDescription:
-            "A focused series covering generative AI applications, foundation models, prompt engineering, responsible AI, and business transformation.",
+        "Completed coursework covering generative AI applications, foundation models, prompt engineering, ethical considerations, and business transformation.",
 
         googleSeriesDescription:
-            "Two completed courses covering data foundations and asking effective questions to support data-driven decisions.",
+        "Two completed courses covering data foundations and how to frame effective questions for data-driven decision-making.",
 
         doroobCompletedDate:
-            "3 Training Hours · Completed in December 2023",
+        "3 Training Hours · Completed December 2023",
 
         viewCertificate:
             "View Certificate",
@@ -340,19 +339,61 @@ const translations = {
             "Professional Learning Series",
 
         closeCertificatesModal:
-            "Close certificates",
+    "Close certificates",
+
+        honorsSectionLabel:
+            "Academic Recognition",
+
+        honorsSectionTitle:
+            "Academic Honors",
+
+        honorsSectionSubtitle:
+            "Recognition awarded by the University of Hail for academic excellence and outstanding academic performance.",
+
+        honorCategory:
+            "Academic Excellence",
+
+        honor1445Title:
+            "Academic Excellence Recognition",
+
+        honor2023Title:
+            "Academic Excellence Recognition",
+
+        honorIssuer:
+            "University of Hail",
+
+        honor1445Year:
+            "Academic Year 1445 AH",
+
+        honor2023Year:
+            "Academic Year 2023",
+
+        viewRecognition:
+            "View Recognition",
+
+        academicRecognitionLabel:
+            "Academic Recognition",
+
+        closeHonorModal:
+            "Close academic recognition",
+
+        honor1445ImageAlt:
+            "University of Hail Academic Excellence Certificate for academic year 1445 AH",
+
+        honor2023ImageAlt:
+            "University of Hail Academic Excellence Certificate for academic year 2023",
 
         contactLabel:
             "Get in Touch",
 
         contactTitle:
-            "Let’s connect and discuss opportunities",
+        "Let’s connect and explore opportunities",
 
         contactDescription:
-            "I am open to AI engineering, machine learning, and AI-powered application development opportunities across Saudi Arabia.",
+        "I’m open to graduate and entry-level opportunities in AI engineering, machine learning, data analysis, and AI application development.",
 
         contactAvailability:
-            "Available for opportunities and relocation",
+        "Available across Saudi Arabia and willing to relocate",
 
         phoneLabel:
             "Phone",
@@ -367,7 +408,7 @@ const translations = {
             "GitHub",
 
        footerDescription:
-            "AI Engineer focused on building practical, intelligent, and user-centered solutions.",
+        "AI Engineer focused on practical AI, machine learning, and data-driven applications.",
 
         footerNavigationTitle:
             "Navigation",
@@ -395,34 +436,30 @@ const translations = {
 
         brandName: "غلا بندر",
 
-        heroLabel: "ملف أعمال الذكاء الاصطناعي",
-
-        heroGreeting: "مرحبًا، أنا",
+        heroLabel: "ملف أعمال هندسة الذكاء الاصطناعي",
 
         name: "غلا بندر",
 
         role: "مهندسة ذكاء اصطناعي",
 
         heroDescription:
-            "خريجة ذكاء اصطناعي تمتلك خبرة عملية في تعلم الآلة، وأنظمة الاسترجاع المعزز بالتوليد، والرؤية الحاسوبية، وإنترنت الأشياء، وتطوير التطبيقات المدعومة بالذكاء الاصطناعي.",
-
+        "خريجة ذكاء اصطناعي بخبرة تطبيقية قائمة على المشاريع في تعلم الآلة، وتحليل البيانات، والاسترجاع المعزز بالتوليد (RAG)، والرؤية الحاسوبية، وتطوير تطبيقات الذكاء الاصطناعي.",
         viewProjects: "استعراض المشاريع",
 
         downloadCV: "تحميل السيرة الذاتية",
 
         availability:
-            "متاحة للفرص المهنية ومستعدة للانتقال داخل المملكة العربية السعودية",
-
+        "متاحة لفرص الذكاء الاصطناعي والبيانات والتقنية في المملكة، ومستعدة للانتقال.",
         profileRole: "مهندسة ذكاء اصطناعي",
 
         profileHeadline:
-            "أطوّر حلول ذكاء اصطناعي عملية",
+            "أطوّر حلولًا عملية بالذكاء الاصطناعي",
 
         projectsStat: "مشاريع مميزة",
 
         gpaStat: "المعدل",
 
-        honorsValue: "المرتبة الأولى",
+        honorsValue: "الأولى",
 
         honorsStat: "مرتبة الشرف",
 
@@ -436,21 +473,20 @@ const translations = {
         aboutTitle: "نبذة عني",
 
         aboutSubtitle:
-            "نظرة مختصرة على خلفيتي الأكاديمية وتوجهي المهني.",
-
+        "نظرة على خلفيتي الأكاديمية وخبرتي التقنية وتوجهي المهني.",
         aboutHeadline:
-            "أحوّل تقنيات الذكاء الاصطناعي إلى حلول عملية",
+        "أوظف الذكاء الاصطناعي والبيانات والتطوير لمعالجة تحديات عملية",
 
         aboutParagraphOne:
-            "خريجة بكالوريوس في الذكاء الاصطناعي من جامعة حائل بمرتبة الشرف الأولى ومعدل 3.907 من 4. أركز على تطوير حلول عملية باستخدام تعلم الآلة، والاسترجاع المعزز بالتوليد، والرؤية الحاسوبية، وواجهات البرمجة الخلفية، وحل المشكلات بالاعتماد على البيانات.",
+        "خريجة بكالوريوس الذكاء الاصطناعي من جامعة حائل بمرتبة الشرف الأولى ومعدل 3.907 من 4.00. تشمل خبرتي التطبيقية من خلال المشاريع تعلم الآلة، وتحليل البيانات، والاسترجاع المعزز بالتوليد (RAG)، والرؤية الحاسوبية، وتطوير تطبيقات الذكاء الاصطناعي، باستخدام أدوات تشمل Python وSQL وFastAPI وREST APIs وMySQL.",
 
         aboutParagraphTwo:
-            "تشمل خبرتي في المشاريع نظامًا لتدريب المستشفيات على الأزمات باستخدام الذكاء الاصطناعي، ومنصة ذكية للعناية بالنباتات، ولوحة تحكم مرورية تعتمد على إنترنت الأشياء. أستمتع بتحويل المتطلبات المعقدة إلى حلول واضحة وقابلة للاستخدام، مع توثيق العمل والتعاون الفعّال ضمن الفرق.",
+        "يتضمن ملف مشاريعي نظامًا لتدريب المستشفيات على الأزمات باستخدام الذكاء الاصطناعي، ومنصة مدعومة بالذكاء الاصطناعي للعناية بالنباتات، ولوحة ذكية لمراقبة الحركة المرورية تعتمد على إنترنت الأشياء. ومن خلال هذه المشاريع، طوّرت قدرتي على تحليل المتطلبات، وبناء حلول عملية وموثقة، وربط قدرات الذكاء الاصطناعي بالخدمات الخلفية، والتعاون بفاعلية ضمن فرق العمل.",
 
         careerFocusLabel: "التوجه المهني",
 
         careerFocusValue:
-            "هندسة الذكاء الاصطناعي وتطوير التطبيقات المدعومة بالذكاء الاصطناعي",
+        "هندسة الذكاء الاصطناعي، وتعلم الآلة، والحلول القائمة على البيانات",
 
         degreeLabel: "المؤهل",
         degreeValue: "بكالوريوس في الذكاء الاصطناعي",
@@ -471,6 +507,7 @@ const translations = {
 
         educationLabel: "التعليم",
         educationTitle: "الخلفية الأكاديمية",
+        graduationYearLabel: "سنة التخرج",
 
         educationDegree: "بكالوريوس في الذكاء الاصطناعي",
         educationUniversity: "جامعة حائل",
@@ -487,24 +524,24 @@ const translations = {
         projectsTitle: "المشاريع المميزة",
 
         projectsSubtitle:
-            "مجموعة من مشاريع الذكاء الاصطناعي وتعلم الآلة والأنظمة الخلفية وإنترنت الأشياء، طُورت خلال تجارب أكاديمية وتدريبية وعمل جماعي.",
+        "مجموعة مختارة من مشاريع الذكاء الاصطناعي وتعلم الآلة وتطوير الأنظمة الخلفية وإنترنت الأشياء، أُنجزت من خلال الدراسة الأكاديمية والتدريب التعاوني ومعسكر تدريبي مهني.",
 
         crisisType: "مشروع التخرج",
 
         crisisSubtitle:
-            "نظام ذكي لتدريب المستشفيات على إدارة الأزمات",
+        "منصة مدعومة بالذكاء الاصطناعي لتدريب المستشفيات على الأزمات وتقييم الأداء",
 
         crisisDescription:
-            "منصة تدريب ذكية تنشئ سيناريوهات طوارئ للمستشفيات، وتوزع المهام حسب الأدوار، وتقيّم استجابات الموظفين، وتقدم ملاحظات آلية باستخدام الذكاء الاصطناعي.",
+        "منصة ذكية لتدريب المستشفيات على الأزمات وتقييم الأداء، تمكّن المشرفين من توليد سيناريوهات طوارئ وأسئلة تقييم بالذكاء الاصطناعي، وإسنادها للموظفين، ومتابعة أدائهم. يحتسب النظام درجات الإجابات تلقائيًا، ثم يقدم الذكاء الاصطناعي ملاحظات مبنية على نتائج كل موظف.",
 
         greenCareType:
             "مشروع التدريب التعاوني",
 
         greenCareSubtitle:
-            "منصة ذكية لصحة النباتات والعناية بها",
+        "منصة مدعومة بالذكاء الاصطناعي للعناية بالنباتات وتقييم صحتها",
 
         greenCareDescription:
-            "منصة ذكية للعناية بالنباتات تتعرف على حالة النبات من الصور المرفوعة، وتقدم توصيات مخصصة بالاعتماد على مدخلات المستخدم والموقع وبيانات الطقس.",
+        "منصة مدعومة بالذكاء الاصطناعي تركز على الاستدامة وتهدف إلى معالجة نقص المعرفة بأساليب العناية بالنباتات. يرفع المستخدم صورة للنبات ويجيب عن أسئلة لتقييم حالته، مثل الإضاءة وحالة الأوراق وعدد مرات الري. تستخدم المنصة الذكاء الاصطناعي والرؤية الحاسوبية للتعرف على النبات من الصورة المرفوعة، وتقييم حالته، ثم تقديم توصيات عناية مخصصة استنادًا إلى مدخلات المستخدم وموقعه وبيانات الطقس.",
 
         nextrafficType:
             "مشروع معسكر الذكاء الاصطناعي وإنترنت الأشياء",
@@ -513,7 +550,7 @@ const translations = {
             "لوحة ذكية لمراقبة الحركة المرورية وإنترنت الأشياء",
 
         nextrafficDescription:
-            "لوحة تنقل ذكية مطورة باستخدام منصة Cumulocity IoT لمراقبة التقاطعات والازدحام وتوقيت الإشارات والطقس وحالة الطريق والتنبيهات المرورية الذكية.",
+        "لوحة ذكية لمراقبة الحركة المرورية وإنترنت الأشياء، مطورة باستخدام Cumulocity IoT لمتابعة التقاطعات ومستويات الازدحام وحالة الإشارات المرورية والطقس وظروف الطريق، وعرض تنبيهات فورية للأحداث المرورية وحالات الطوارئ.",
 
         viewGitHub: "عرض المشروع على GitHub",
 
@@ -543,42 +580,42 @@ const translations = {
 
         nextButton: "التالي",
 
-        skillsLabel: "القدرات التقنية",
+        skillsLabel: "القدرات الأساسية",
 
         skillsTitle: "المهارات والتقنيات",
 
         skillsSubtitle:
-            "تقنيات وقدرات مهنية طورتها من خلال المشاريع الأكاديمية والتدريب العملي والمعسكرات والتعلم المستقل.",
+        "مهارات تقنية ومهنية طورتها من خلال المشاريع الأكاديمية والتدريب التعاوني ومعسكر تدريبي مهني والتعلم المستقل.",
 
         aiSkillsTitle:
-            "الذكاء الاصطناعي",
+        "الذكاء الاصطناعي وتعلم الآلة",
 
         aiSkillsDescription:
-            "تقنيات أساسية في الذكاء الاصطناعي استخدمتها لبناء أنظمة ذكية وحلول تعتمد على البيانات.",
+        "أساليب في الذكاء الاصطناعي وتعلم الآلة طبقتها في مشاريع تشمل معالجة اللغة، والرؤية الحاسوبية، والاسترجاع المعزز بالتوليد، والذكاء الاصطناعي التوليدي.",
 
         programmingSkillsTitle:
-            "البرمجة والبيانات",
+        "البرمجة وتحليل البيانات",
 
         programmingSkillsDescription:
-            "أدوات برمجية وتقنيات بيانات استخدمتها في التحليل والتطوير وتنفيذ حلول الذكاء الاصطناعي.",
+        "لغات برمجية وأدوات بيانات استخدمتها في التحليل، وإعداد البيانات، وتطوير حلول الذكاء الاصطناعي.",
 
         backendSkillsTitle:
-            "الأنظمة الخلفية وقواعد البيانات",
+        "تطوير الأنظمة الخلفية وقواعد البيانات",
 
         backendSkillsDescription:
-            "تقنيات خلفية استخدمتها لربط نماذج الذكاء الاصطناعي بالتطبيقات وواجهات البرمجة والبيانات المنظمة.",
+        "تقنيات خلفية استخدمتها لبناء واجهات REST API، ودمج قدرات الذكاء الاصطناعي في التطبيقات، وإدارة البيانات المنظمة.",
 
         toolsSkillsTitle:
-            "الأدوات وتقنيات الويب",
+        "أدوات التطوير وتقنيات الويب وإنترنت الأشياء",
 
         toolsSkillsDescription:
-            "أدوات للتطوير والتعاون وتقنيات الويب وإنترنت الأشياء استخدمتها في مشاريعي التقنية.",
+        "أدوات وتقنيات استخدمتها في التطوير والتجارب البرمجية وإدارة الإصدارات وبناء واجهات الويب ولوحات إنترنت الأشياء.",
 
         professionalSkillsTitle:
             "المهارات المهنية",
 
         professionalSkillsDescription:
-            "قدرات مهنية تدعم العمل التقني الفعّال والتعاون ضمن الفرق وإنجاز المشاريع.",
+        "مهارات مهنية تدعم حل المشكلات بصورة منظمة، والتوثيق التقني الواضح، والتعاون الفعّال، وإنجاز المشاريع بجودة وموثوقية.",
 
         problemSolving:
             "حل المشكلات",
@@ -597,12 +634,12 @@ const translations = {
 
         navExperience: "الخبرات",
 
-        experienceLabel: "الخلفية العملية",
+        experienceLabel: "الخبرة التطبيقية",
 
         experienceTitle: "الخبرات والتدريب",
 
         experienceSubtitle:
-            "تجارب عملية عززت مهاراتي التقنية والتوثيقية والعمل الجماعي وتطوير المشاريع.",
+        "خبرات تدريبية وتطبيقية في تنظيم البيانات، والتوثيق التقني، وتطوير تطبيقات الذكاء الاصطناعي، والتعاون ضمن فرق العمل.",
 
         mewaExperienceType:
             "التدريب التعاوني",
@@ -623,19 +660,19 @@ const translations = {
             "عن بُعد",
 
         mewaPointOne:
-        "أعددت وثائق المشروع والتقارير ونفذت تحديثات منظمة للبيانات باستخدام Excel.",
+        "أعددت وثائق المشروع والتقارير، ونظمت تحديثات البيانات باستخدام Excel لدعم تنظيم البيانات وإعداد التقارير.",
 
         mewaPointTwo:
-            "تعاونت مع الفريق في تخطيط المشروع وتوثيقه وتجهيز العرض التقديمي.",
+        "اطلعت على عدد من المنصات الرقمية المستخدمة لدى الوزارة لفهم وظائفها الأساسية وآلية عملها.",
 
         mewaPointThree:
-            "ساهمت في تطوير منصة قرين كير المدعومة بالذكاء الاصطناعي لتقييم صحة النباتات وتقديم توصيات عناية مخصصة.",
-            
+        "ساهمت في تطوير حل مدعوم بالذكاء الاصطناعي يركز على الاستدامة، لتقييم صحة النباتات وتقديم توصيات عناية مخصصة.",
+
         experienceProjectLabel:
             "المشروع المرتبط",
 
         nitaExperienceType:
-            "معسكر الذكاء الاصطناعي وإنترنت الأشياء",
+        "معسكر تدريبي مهني",
 
         nitaRole:
             "متدربة في معسكر الذكاء الاصطناعي وإنترنت الأشياء",
@@ -647,16 +684,19 @@ const translations = {
             "معسكر لمدة 3 أشهر",
 
         nitaPointOne:
-            "تعاونت ضمن فريق لتطوير حل ذكي لمراقبة الحركة المرورية باستخدام منصة Cumulocity IoT.",
+        "تعاونت ضمن فريق لتطوير حل ذكي قائم على إنترنت الأشياء لمراقبة الحركة المرورية باستخدام منصة Cumulocity IoT.",
 
         nitaPointTwo:
-            "أنشأت لوحات لمتابعة التقاطعات والازدحام وتوقيت الإشارات وحالة الطرق وبيانات الطقس.",
+        "ساهمت في بناء لوحات لمراقبة التقاطعات ومستويات الازدحام وحالة الإشارات المرورية وظروف الطرق وبيانات الطقس.",
 
         nitaPointThree:
-            "طبقت قواعد وتنبيهات ذكية للازدحام والطرق المبتلة وانخفاض الرؤية وحالات الطوارئ.",
+        "أعددت قواعد وتنبيهات ذكية للازدحام والطرق المبتلة وانخفاض مستوى الرؤية والأحداث المرتبطة بحالات الطوارئ.",
 
         navCertifications:
          "الشهادات",
+
+         navHonors:
+        "التفوق الأكاديمي",
 
         certificationsLabel:
             "التعلم المستمر",
@@ -665,7 +705,7 @@ const translations = {
             "الشهادات والبرامج التدريبية",
 
         certificationsSubtitle:
-            "مجموعة مختارة من الشهادات والتدريب المهني في الذكاء الاصطناعي والحوسبة السحابية وتحليل البيانات وإنترنت الأشياء وتعلم الآلة.",
+        "مجموعة مختارة من الشهادات والدورات المكتملة والبرامج التدريبية المهنية في الذكاء الاصطناعي والحوسبة السحابية وتحليل البيانات وإنترنت الأشياء وتعلم الآلة.",
 
         cloudCategory:
             "الحوسبة السحابية",
@@ -695,7 +735,7 @@ const translations = {
             "أُكمل في فبراير 2024",
 
         nitaCompletedDate:
-            "أُكمل في أكتوبر 2025",
+        "معسكر لمدة 3 أشهر · أُكمل في أكتوبر 2025",
 
         fiveCompletedCourses:
             "5 دورات مكتملة",
@@ -704,10 +744,10 @@ const translations = {
             "دورتان مكتملتان",
 
         ibmSeriesDescription:
-            "سلسلة متخصصة تغطي تطبيقات الذكاء الاصطناعي التوليدي والنماذج الأساسية وهندسة الأوامر والذكاء الاصطناعي المسؤول والتحول المؤسسي.",
+        "دورات مكتملة تغطي تطبيقات الذكاء الاصطناعي التوليدي، والنماذج الأساسية، وهندسة الأوامر، والاعتبارات الأخلاقية، والتحول المؤسسي.",
 
         googleSeriesDescription:
-            "دورتان تغطيان أساسيات البيانات وطرح الأسئلة الفعّالة لدعم القرارات المبنية على البيانات.",
+        "دورتان مكتملتان تغطيان أسس البيانات وصياغة الأسئلة الفعّالة لدعم اتخاذ قرارات مبنية على البيانات.",
 
         doroobCompletedDate:
             "3 ساعات تدريبية · أُكملت في ديسمبر 2023",
@@ -725,19 +765,61 @@ const translations = {
             "سلسلة تعلم مهنية",
 
         closeCertificatesModal:
-            "إغلاق نافذة الشهادات",
+    "إغلاق نافذة الشهادات",
 
-         contactLabel:
+        honorsSectionLabel:
+            "التقدير الأكاديمي",
+
+        honorsSectionTitle:
+            "التفوق الأكاديمي",
+
+        honorsSectionSubtitle:
+            "تكريم من جامعة حائل تقديرًا للتفوق والتميز في الأداء الأكاديمي.",
+
+        honorCategory:
+            "التفوق الأكاديمي",
+
+        honor1445Title:
+            "شهادة تفوق أكاديمي",
+
+        honor2023Title:
+            "شهادة تفوق أكاديمي",
+
+        honorIssuer:
+            "جامعة حائل",
+
+        honor1445Year:
+            "العام الجامعي 1445هـ",
+
+        honor2023Year:
+            "العام الجامعي 2023",
+
+        viewRecognition:
+            "عرض الشهادة",
+
+        academicRecognitionLabel:
+            "التقدير الأكاديمي",
+
+        closeHonorModal:
+            "إغلاق شهادة التفوق",
+
+        honor1445ImageAlt:
+            "شهادة تفوق أكاديمي من جامعة حائل للعام الجامعي 1445هـ",
+
+        honor2023ImageAlt:
+            "شهادة تفوق أكاديمي من جامعة حائل للعام الجامعي 2023",
+
+        contactLabel:
             "تواصل معي",
 
         contactTitle:
-            "لنتواصل ونناقش الفرص المهنية",
+        "لنتواصل ونستكشف الفرص المهنية",
 
         contactDescription:
-            "متاحة لفرص هندسة الذكاء الاصطناعي وتعلم الآلة وتطوير التطبيقات المدعومة بالذكاء الاصطناعي في مختلف مناطق المملكة العربية السعودية.",
+        "متاحة لبرامج الخريجين والفرص الوظيفية للمستوى المبتدئ في هندسة الذكاء الاصطناعي، وتعلم الآلة، وتحليل البيانات، وتطوير تطبيقات الذكاء الاصطناعي.",
 
         contactAvailability:
-            "متاحة للفرص المهنية ومستعدة للانتقال",
+        "متاحة للفرص في مختلف مناطق المملكة ومستعدة للانتقال",
 
         phoneLabel:
             "رقم الجوال",
@@ -752,8 +834,8 @@ const translations = {
             "قيت هب",
 
          footerDescription:
-            "مهندسة ذكاء اصطناعي أركز على تطوير حلول عملية وذكية تتمحور حول احتياجات المستخدم.",
-
+    "مهندسة ذكاء اصطناعي أركز على الحلول العملية، وتعلم الآلة، والتطبيقات القائمة على البيانات.",
+    
         footerNavigationTitle:
             "التنقل",
 
@@ -1014,16 +1096,16 @@ const certificateSeriesData = {
     ibm: {
 
         title: {
-            en: "IBM Generative AI Series",
-            ar: "سلسلة IBM في الذكاء الاصطناعي التوليدي"
+            en: "IBM Generative AI Coursework",
+            ar: "دورات IBM في الذكاء الاصطناعي التوليدي"
         },
 
         subtitle: {
             en:
-                "Five completed courses authorized by IBM and offered through Coursera.",
+        "Five completed courses authorized by IBM and offered through Coursera.",
 
-            ar:
-                "خمس دورات مكتملة ومعتمدة من IBM ومقدمة عبر Coursera."
+        ar:
+            "خمس دورات مكتملة مصرّح بها من IBM ومقدمة عبر Coursera."
         },
 
         courses: [
@@ -1258,6 +1340,31 @@ const translatedElements =
             "[data-certificate-close]"
         );
 
+        const honorButtons =
+    document.querySelectorAll(
+        "[data-honor-image]"
+    );
+
+    const honorModal =
+        document.getElementById(
+            "honor-modal"
+        );
+
+    const honorModalTitle =
+        document.getElementById(
+            "honor-modal-title"
+        );
+
+    const honorModalImage =
+        document.getElementById(
+            "honor-modal-image"
+        );
+
+    const honorCloseElements =
+        document.querySelectorAll(
+            "[data-honor-close]"
+        );
+
         const mobileMenuButton =
     document.getElementById("mobile-menu-button");
 
@@ -1287,9 +1394,12 @@ const translatedElements =
      let currentGalleryProject = null;
      let currentGalleryIndex = 0;
 
-     let currentCertificateSeries = null;
+    let currentCertificateSeries = null;
 
-     let isMobileMenuOpen = false;
+    let currentHonorTitleKey = null;
+    let lastHonorTrigger = null;
+
+    let isMobileMenuOpen = false;
 
 
 /* =================================
@@ -1441,6 +1551,24 @@ if (
 ) {
     renderCertificateSeries();
 }
+
+/*
+Refresh the academic honor modal
+when the language changes
+*/
+
+if (
+    honorModal &&
+    !honorModal.hidden &&
+    currentHonorTitleKey &&
+    honorModalTitle
+) {
+    honorModalTitle.textContent =
+        translations[currentLanguage][
+            currentHonorTitleKey
+        ];
+}
+
 
 /*
 Update mobile menu accessibility
@@ -1861,6 +1989,153 @@ document.addEventListener(
 );
 
 /* =================================
+   Academic Honor Modal
+================================= */
+
+function openHonorModal(button) {
+
+    if (
+        !honorModal ||
+        !honorModalImage ||
+        !honorModalTitle ||
+        !button
+    ) {
+        return;
+    }
+
+    const imageSource =
+        button.dataset.honorImage;
+
+    const titleKey =
+        button.dataset.honorTitle;
+
+    if (
+        !imageSource ||
+        !titleKey
+    ) {
+        return;
+    }
+
+    currentHonorTitleKey =
+        titleKey;
+
+    lastHonorTrigger =
+        button;
+
+    honorModalImage.src =
+        imageSource;
+
+    honorModalTitle.textContent =
+        translations[currentLanguage][titleKey];
+
+    const imageAltKey =
+    titleKey === "honor1445Title"
+        ? "honor1445ImageAlt"
+        : "honor2023ImageAlt";
+
+    honorModalImage.alt =
+        translations[currentLanguage][
+            imageAltKey
+        ];
+
+    honorModal.hidden =
+        false;
+
+    document.body.classList.add(
+        "honor-modal-open"
+    );
+
+    const closeButton =
+        honorModal.querySelector(
+            ".honor-modal-close"
+        );
+
+    if (closeButton) {
+        closeButton.focus();
+    }
+}
+
+
+function closeHonorModal() {
+
+    if (!honorModal) {
+        return;
+    }
+
+    honorModal.hidden =
+        true;
+
+    document.body.classList.remove(
+        "honor-modal-open"
+    );
+
+    honorModalImage.src =
+        "";
+
+    currentHonorTitleKey =
+        null;
+
+    if (lastHonorTrigger) {
+        lastHonorTrigger.focus();
+    }
+
+    lastHonorTrigger =
+        null;
+}
+
+
+/* Open academic honor */
+
+honorButtons.forEach(
+    function (button) {
+
+        button.addEventListener(
+            "click",
+            function () {
+
+                openHonorModal(
+                    button
+                );
+            }
+        );
+
+    }
+);
+
+
+/* Close academic honor */
+
+honorCloseElements.forEach(
+    function (element) {
+
+        element.addEventListener(
+            "click",
+            closeHonorModal
+        );
+
+    }
+);
+
+
+/* Close academic honor using Escape */
+
+document.addEventListener(
+    "keydown",
+    function (event) {
+
+        if (
+            event.key === "Escape" &&
+            honorModal &&
+            !honorModal.hidden
+        ) {
+            closeHonorModal();
+        }
+
+    }
+);
+
+
+/* =================================
    Mobile Navigation
 ================================= */
 
@@ -1988,7 +2263,7 @@ window.addEventListener(
     "resize",
     function () {
 
-        if (window.innerWidth > 900) {
+        if (window.innerWidth > 1050) {
             closeMobileMenu();
         }
     }
