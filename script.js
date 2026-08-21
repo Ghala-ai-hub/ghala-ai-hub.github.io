@@ -14,6 +14,7 @@ const translations = {
 
         heroLabel: "AI Engineering Portfolio",
 
+
         name: "Ghala Bander",
 
         role: "AI Engineer",
@@ -293,6 +294,9 @@ const translations = {
         dataAnalyticsCategory:
             "Data Analytics",
 
+        tableauCategory:
+        "Data Analytics",
+
         machineLearningCategory:
             "Machine Learning",
 
@@ -302,6 +306,9 @@ const translations = {
         nitaIssuer:
             "National Information Technology Academy",
 
+        tuwaiqIssuer:
+        "Tuwaiq Academy",
+
         doroobIssuer:
             "Doroob",
 
@@ -310,6 +317,9 @@ const translations = {
 
         nitaCompletedDate:
         "3-Month Bootcamp · Completed October 2025",
+
+    tuwaiqCompletedDate:
+     "10 Training Hours · Completed August 2026",
 
         fiveCompletedCourses:
             "5 Completed Courses",
@@ -719,6 +729,9 @@ const translations = {
         dataAnalyticsCategory:
             "تحليل البيانات",
 
+         tableauCategory:
+          "تحليل البيانات",
+
         machineLearningCategory:
             "تعلم الآلة",
 
@@ -728,6 +741,9 @@ const translations = {
         nitaIssuer:
             "الأكاديمية الوطنية لتقنية المعلومات",
 
+        tuwaiqIssuer:
+         "أكاديمية طويق",
+
         doroobIssuer:
             "دروب",
 
@@ -736,6 +752,9 @@ const translations = {
 
         nitaCompletedDate:
         "معسكر لمدة 3 أشهر · أُكمل في أكتوبر 2025",
+
+        tuwaiqCompletedDate:
+    "10 ساعات تدريبية · أُكمل في أغسطس 2026",
 
         fiveCompletedCourses:
             "5 دورات مكتملة",
