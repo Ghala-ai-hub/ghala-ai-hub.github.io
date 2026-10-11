@@ -20,7 +20,7 @@ const translations = {
         role: "AI Engineer",
 
         heroDescription:
-            "Artificial Intelligence graduate with hands-on project experience in machine learning, data analysis, retrieval-augmented generation (RAG), computer vision, and AI application development.",
+        "Artificial Intelligence graduate with hands-on experience in machine learning, generative AI, retrieval-augmented generation (RAG), computer vision, and agentic AI, building practical AI applications and intelligent workflows.",
 
         viewProjects: "View Projects",
 
@@ -32,7 +32,7 @@ const translations = {
         profileRole: "AI Engineer",
 
         profileHeadline:
-            "Building practical AI solutions",
+        "Building practical AI and intelligent systems",
 
         projectsStat: "Featured Projects",
 
@@ -54,16 +54,16 @@ const translations = {
             "An overview of my academic background, technical experience, and career focus.",
 
         aboutHeadline:
-            "Applying AI, data, and development to practical challenges",
+        "Building practical AI systems from intelligent models to real applications",
 
         aboutParagraphOne:
-        "Artificial Intelligence graduate from the University of Hail with First Class Honors and a GPA of 3.907 / 4.00. My project-based experience spans machine learning, data analysis, retrieval-augmented generation (RAG), computer vision, and AI application development, using tools including Python, SQL, FastAPI, REST APIs, and MySQL.",
+        "Artificial Intelligence graduate from the University of Hail with First Class Honors and a GPA of 3.907 / 4.00. My hands-on experience spans machine learning, generative AI, natural language processing, computer vision, retrieval-augmented generation (RAG), agentic AI, and practical AI application development.",
         aboutParagraphTwo:
-        "My project portfolio includes an AI-based hospital crisis training system, an AI-powered plant care platform, and an IoT-enabled smart traffic monitoring dashboard. Through these projects, I have strengthened my ability to analyze requirements, develop practical and well-documented solutions, integrate AI capabilities with backend services, and collaborate effectively within teams.",
+        "My portfolio includes RAGOps Agent, a multi-agent system for monitoring and improving RAG retrieval quality; an AI-based hospital crisis training platform; an AI-powered plant care system; and an IoT-enabled smart traffic monitoring dashboard. Through these projects, I have developed experience in retrieval evaluation, intelligent workflows, backend integration, data-driven problem solving, and collaborative AI system development.",
         careerFocusLabel: "Career Focus",
 
         careerFocusValue:
-        "AI Engineering, Machine Learning, and Data-Driven Solutions",
+        "AI Engineering, Machine Learning, RAG, and Agentic AI",
         degreeLabel: "Degree",
         degreeValue: "Bachelor of Artificial Intelligence",
 
@@ -99,7 +99,22 @@ const translations = {
         projectsTitle: "Featured Projects",
 
         projectsSubtitle:
-        "A selection of AI, machine learning, backend development, and IoT projects completed through academic work, cooperative training, and a professional bootcamp.",
+        "A selection of AI, agentic AI, machine learning, backend development, RAG, and IoT projects completed through academic work, cooperative training, and professional programs.",
+
+          ragopsType:
+        "SDA Agentic AI Engineering Project",
+
+        ragopsSubtitle:
+            "Multi-Agent Retrieval QA Optimizer",
+
+        ragopsDescription:
+            "A multi-agent RAGOps system designed to improve the retrieval layer behind RAG-based AI assistants rather than act as a chatbot itself. It monitors retrieval quality, diagnoses Top-K, Query Mismatch, and Chunking Quality issues, proposes targeted optimizations, applies Human-in-the-Loop controls to structural changes, and validates improvements using before-and-after retrieval metrics to support more reliable AI responses.",
+
+        ragopsImageAlt:
+            "RAGOps Agent overview showing the four-agent retrieval optimization workflow",
+
+        viewLiveDemo:
+            "Live Demo",
 
         crisisType: "Graduation Project",
 
@@ -160,13 +175,13 @@ const translations = {
         skillsTitle: "Skills and Technologies",
 
         skillsSubtitle:
-        "Technical and professional skills developed through academic projects, cooperative training, a professional bootcamp, and independent learning.",
+        "Technical and professional capabilities developed through AI projects, professional programs, cooperative training, and independent learning.",
 
         aiSkillsTitle:
-            "Artificial Intelligence and Machine Learning",
+        "Artificial Intelligence, Machine Learning, and Agentic AI",
 
         aiSkillsDescription:
-        "AI and machine learning methods applied in projects involving language processing, computer vision, retrieval-augmented generation, and generative AI.",
+        "AI methods and intelligent workflows applied across machine learning, generative AI, NLP, computer vision, RAG, and multi-agent systems.",
 
         programmingSkillsTitle:
         "Programming and Data Analysis",
@@ -175,16 +190,16 @@ const translations = {
         "Programming languages and data tools used for analysis, data preparation, and AI solution development.",
 
         backendSkillsTitle:
-        "Backend Development and Databases",
+        "Backend Development and Data Systems",
 
         backendSkillsDescription:
         "Backend technologies used to build REST APIs, integrate AI capabilities into applications, and manage structured data.",
 
         toolsSkillsTitle:
-        "Development Tools, Web, and IoT",
+        "AI Frameworks, Development Tools, and IoT",
 
         toolsSkillsDescription:
-        "Tools and technologies used for development, experimentation, version control, web interfaces, and IoT dashboards.",
+        "Frameworks and tools used for agentic AI workflows, vector retrieval, experimentation, observability, version control, interfaces, and IoT monitoring.",
 
         professionalSkillsTitle:
             "Professional Skills",
@@ -214,7 +229,31 @@ const translations = {
         experienceTitle: "Experience and Training",
 
         experienceSubtitle:
-        "Hands-on training and project experience in data organization, technical documentation, AI application development, and team collaboration.",
+        "Hands-on training and project experience in agentic AI, AI application development, data organization, technical documentation, and team collaboration.",
+
+        sdaExperienceType:
+    "Agentic AI Engineering Program",
+
+        sdaRole:
+            "Agentic AI Engineering Trainee",
+
+        sdaOrganization:
+            "Saudi Digital Academy (SDA) · In collaboration with WeCloudData",
+
+        sdaDates:
+            "Completed October 2026",
+
+        sdaDuration:
+            "7-Week Program",
+
+        sdaPointOne:
+            "Contributed within a team to the end-to-end development of RAGOps Agent, a multi-agent optimization layer for RAG systems, with a primary focus on retrieval evaluation and diagnosis.",
+
+        sdaPointTwo:
+            "Evaluated retrieval performance across 48 queries covering 24 services using Recall@K, Precision@K, and MRR, and diagnosed Top-K, Query Mismatch, and Chunking Quality issues.",
+
+        sdaPointThree:
+            "Worked within a LangGraph-orchestrated workflow using LangChain, FAISS, and Human-in-the-Loop controls to support targeted optimization and before-vs-after validation.",
 
         mewaExperienceType:
             "Cooperative Training",
@@ -453,7 +492,7 @@ const translations = {
         role: "مهندسة ذكاء اصطناعي",
 
         heroDescription:
-        "خريجة ذكاء اصطناعي بخبرة تطبيقية قائمة على المشاريع في تعلم الآلة، وتحليل البيانات، والاسترجاع المعزز بالتوليد (RAG)، والرؤية الحاسوبية، وتطوير تطبيقات الذكاء الاصطناعي.",
+        "خريجة ذكاء اصطناعي بخبرة تطبيقية في تعلم الآلة، والذكاء الاصطناعي التوليدي، والاسترجاع المعزز بالتوليد (RAG)، والرؤية الحاسوبية، والذكاء الاصطناعي الوكيل، مع خبرة في بناء تطبيقات وسير عمل ذكية.",
         viewProjects: "استعراض المشاريع",
 
         downloadCV: "تحميل السيرة الذاتية",
@@ -463,7 +502,7 @@ const translations = {
         profileRole: "مهندسة ذكاء اصطناعي",
 
         profileHeadline:
-            "أطوّر حلولًا عملية بالذكاء الاصطناعي",
+        "أطوّر أنظمة وحلولًا عملية بالذكاء الاصطناعي",
 
         projectsStat: "مشاريع مميزة",
 
@@ -485,18 +524,18 @@ const translations = {
         aboutSubtitle:
         "نظرة على خلفيتي الأكاديمية وخبرتي التقنية وتوجهي المهني.",
         aboutHeadline:
-        "أوظف الذكاء الاصطناعي والبيانات والتطوير لمعالجة تحديات عملية",
+        "أبني أنظمة ذكاء اصطناعي عملية من النماذج الذكية إلى التطبيقات الفعلية",
 
         aboutParagraphOne:
-        "خريجة بكالوريوس الذكاء الاصطناعي من جامعة حائل بمرتبة الشرف الأولى ومعدل 3.907 من 4.00. تشمل خبرتي التطبيقية من خلال المشاريع تعلم الآلة، وتحليل البيانات، والاسترجاع المعزز بالتوليد (RAG)، والرؤية الحاسوبية، وتطوير تطبيقات الذكاء الاصطناعي، باستخدام أدوات تشمل Python وSQL وFastAPI وREST APIs وMySQL.",
+        "خريجة بكالوريوس الذكاء الاصطناعي من جامعة حائل بمرتبة الشرف الأولى ومعدل 3.907 من 4.00. تشمل خبرتي التطبيقية تعلم الآلة، والذكاء الاصطناعي التوليدي، ومعالجة اللغة الطبيعية، والرؤية الحاسوبية، والاسترجاع المعزز بالتوليد (RAG)، والذكاء الاصطناعي الوكيل، وتطوير تطبيقات الذكاء الاصطناعي العملية.",
 
         aboutParagraphTwo:
-        "يتضمن ملف مشاريعي نظامًا لتدريب المستشفيات على الأزمات باستخدام الذكاء الاصطناعي، ومنصة مدعومة بالذكاء الاصطناعي للعناية بالنباتات، ولوحة ذكية لمراقبة الحركة المرورية تعتمد على إنترنت الأشياء. ومن خلال هذه المشاريع، طوّرت قدرتي على تحليل المتطلبات، وبناء حلول عملية وموثقة، وربط قدرات الذكاء الاصطناعي بالخدمات الخلفية، والتعاون بفاعلية ضمن فرق العمل.",
+        "يتضمن ملف مشاريعي RAGOps Agent، وهو نظام متعدد الوكلاء لمراقبة جودة الاسترجاع في أنظمة RAG وتحسينها، بالإضافة إلى منصة لتدريب المستشفيات على الأزمات بالذكاء الاصطناعي، ومنصة ذكية للعناية بالنباتات، ولوحة لمراقبة الحركة المرورية باستخدام إنترنت الأشياء. ومن خلال هذه المشاريع، اكتسبت خبرة في تقييم الاسترجاع، وسير العمل الذكية، وربط أنظمة الذكاء الاصطناعي بالخدمات الخلفية، وحل المشكلات بالاعتماد على البيانات، والعمل ضمن فرق تطوير تقنية.",
 
         careerFocusLabel: "التوجه المهني",
 
         careerFocusValue:
-        "هندسة الذكاء الاصطناعي، وتعلم الآلة، والحلول القائمة على البيانات",
+        "هندسة الذكاء الاصطناعي، وتعلم الآلة، وRAG، والذكاء الاصطناعي الوكيل",
 
         degreeLabel: "المؤهل",
         degreeValue: "بكالوريوس في الذكاء الاصطناعي",
@@ -534,7 +573,22 @@ const translations = {
         projectsTitle: "المشاريع المميزة",
 
         projectsSubtitle:
-        "مجموعة مختارة من مشاريع الذكاء الاصطناعي وتعلم الآلة وتطوير الأنظمة الخلفية وإنترنت الأشياء، أُنجزت من خلال الدراسة الأكاديمية والتدريب التعاوني ومعسكر تدريبي مهني.",
+        "مجموعة مختارة من مشاريع الذكاء الاصطناعي والذكاء الاصطناعي الوكيل وتعلم الآلة وتطوير الأنظمة الخلفية وRAG وإنترنت الأشياء، أُنجزت من خلال الدراسة الأكاديمية والتدريب التعاوني والبرامج المهنية.",
+
+        ragopsType:
+            "مشروع برنامج هندسة الذكاء الاصطناعي الوكيل – SDA",
+
+        ragopsSubtitle:
+            "نظام متعدد الوكلاء لتحسين جودة الاسترجاع في أنظمة RAG",
+
+        ragopsDescription:
+            "نظام RAGOps متعدد الوكلاء صُمم لتحسين طبقة الاسترجاع التي تعتمد عليها مساعدات الذكاء الاصطناعي المبنية على RAG، وليس ليكون روبوت محادثة بحد ذاته. يراقب جودة الاسترجاع، ويشخّص مشكلات Top-K وQuery Mismatch وChunking Quality، ويقترح تحسينات مستهدفة، ويطبق ضوابط Human-in-the-Loop على التغييرات الهيكلية، ثم يقارن أداء الاسترجاع قبل التحسين وبعده لدعم استجابات ذكاء اصطناعي أكثر موثوقية.",
+
+        ragopsImageAlt:
+            "نظرة عامة على RAGOps Agent توضح سير عمل تحسين الاسترجاع باستخدام أربعة وكلاء",
+
+        viewLiveDemo:
+            "التجربة المباشرة",
 
         crisisType: "مشروع التخرج",
 
@@ -595,13 +649,13 @@ const translations = {
         skillsTitle: "المهارات والتقنيات",
 
         skillsSubtitle:
-        "مهارات تقنية ومهنية طورتها من خلال المشاريع الأكاديمية والتدريب التعاوني ومعسكر تدريبي مهني والتعلم المستقل.",
+        "قدرات تقنية ومهنية طورتها من خلال مشاريع الذكاء الاصطناعي والبرامج المهنية والتدريب التعاوني والتعلم المستقل.",
 
         aiSkillsTitle:
-        "الذكاء الاصطناعي وتعلم الآلة",
+        "الذكاء الاصطناعي وتعلم الآلة والذكاء الاصطناعي الوكيل",
 
         aiSkillsDescription:
-        "أساليب في الذكاء الاصطناعي وتعلم الآلة طبقتها في مشاريع تشمل معالجة اللغة، والرؤية الحاسوبية، والاسترجاع المعزز بالتوليد، والذكاء الاصطناعي التوليدي.",
+        "أساليب وسير عمل ذكية طبقتها في تعلم الآلة، والذكاء الاصطناعي التوليدي، ومعالجة اللغة الطبيعية، والرؤية الحاسوبية، وRAG، والأنظمة متعددة الوكلاء.",
 
         programmingSkillsTitle:
         "البرمجة وتحليل البيانات",
@@ -610,16 +664,16 @@ const translations = {
         "لغات برمجية وأدوات بيانات استخدمتها في التحليل، وإعداد البيانات، وتطوير حلول الذكاء الاصطناعي.",
 
         backendSkillsTitle:
-        "تطوير الأنظمة الخلفية وقواعد البيانات",
+        "تطوير الأنظمة الخلفية وأنظمة البيانات",
 
         backendSkillsDescription:
         "تقنيات خلفية استخدمتها لبناء واجهات REST API، ودمج قدرات الذكاء الاصطناعي في التطبيقات، وإدارة البيانات المنظمة.",
 
         toolsSkillsTitle:
-        "أدوات التطوير وتقنيات الويب وإنترنت الأشياء",
+        "أطر الذكاء الاصطناعي وأدوات التطوير وإنترنت الأشياء",
 
         toolsSkillsDescription:
-        "أدوات وتقنيات استخدمتها في التطوير والتجارب البرمجية وإدارة الإصدارات وبناء واجهات الويب ولوحات إنترنت الأشياء.",
+        "أطر وأدوات استخدمتها في سير عمل الذكاء الاصطناعي الوكيل، والاسترجاع المتجهي، والتجارب البرمجية، والمراقبة، وإدارة الإصدارات، والواجهات، ومراقبة إنترنت الأشياء.",
 
         professionalSkillsTitle:
             "المهارات المهنية",
@@ -649,7 +703,32 @@ const translations = {
         experienceTitle: "الخبرات والتدريب",
 
         experienceSubtitle:
-        "خبرات تدريبية وتطبيقية في تنظيم البيانات، والتوثيق التقني، وتطوير تطبيقات الذكاء الاصطناعي، والتعاون ضمن فرق العمل.",
+        "خبرات تدريبية وتطبيقية في الذكاء الاصطناعي الوكيل، وتطوير تطبيقات الذكاء الاصطناعي، وتنظيم البيانات، والتوثيق التقني، والتعاون ضمن فرق العمل.",
+
+        sdaExperienceType:
+        "برنامج هندسة الذكاء الاصطناعي الوكيل",
+
+        sdaRole:
+            "متدربة في هندسة الذكاء الاصطناعي الوكيل",
+
+        sdaOrganization:
+            "الأكاديمية السعودية الرقمية (SDA) · بالتعاون مع WeCloudData",
+
+        sdaDates:
+            "أُكمل في أكتوبر 2026",
+
+        sdaDuration:
+            "برنامج لمدة 7 أسابيع",
+
+        sdaPointOne:
+            "ساهمت ضمن فريق في تطوير RAGOps Agent من البداية إلى النهاية كنظام متعدد الوكلاء لتحسين أنظمة RAG، مع تركيز أساسي على تقييم الاسترجاع وتشخيص أسباب الفشل.",
+
+        sdaPointTwo:
+            "قيّمت أداء الاسترجاع عبر 48 استعلامًا تغطي 24 خدمة باستخدام Recall@K وPrecision@K وMRR، وشخّصت مشكلات Top-K وQuery Mismatch وChunking Quality.",
+
+        sdaPointThree:
+            "عملت ضمن سير عمل منظم باستخدام LangGraph وLangChain وFAISS وضوابط Human-in-the-Loop لدعم التحسينات المستهدفة والتحقق من الأداء قبل التحسين وبعده.",
+            
 
         mewaExperienceType:
             "التدريب التعاوني",
@@ -882,6 +961,71 @@ const translations = {
 
 const projectGalleries = {
 
+"ragops": {
+
+    title: {
+        en: "RAGOps Agent",
+        ar: "RAGOps Agent"
+    },
+
+    images: [
+
+        {
+            src:
+                "images/ragops/ragops-overview.jpg",
+
+            caption: {
+                en: "RAGOps Agent Overview and Four-Agent Optimization Workflow",
+                ar: "نظرة عامة على RAGOps وسير عمل التحسين باستخدام أربعة وكلاء"
+            }
+        },
+
+        {
+            src:
+                "images/ragops/ragops-hitl-approval.jpg",
+
+            caption: {
+                en: "Human-in-the-Loop Approval for High-Impact Structural Optimization",
+                ar: "الموافقة البشرية على التغييرات الهيكلية عالية التأثير"
+            }
+        },
+
+        {
+            src:
+                "images/ragops/ragops-live-run.jpg",
+
+            caption: {
+                en: "Live RAGOps Run with Retrieval Diagnosis, Query Rewriting, and Validation",
+                ar: "تشغيل فعلي لـRAGOps يتضمن تشخيص الاسترجاع وإعادة صياغة الاستعلام والتحقق"
+            }
+        },
+
+        {
+            src:
+                "images/ragops/ragops-dashboard.jpg",
+
+            caption: {
+                en: "Evaluation Dashboard with Retrieval Metrics and Verified Optimization Results",
+                ar: "لوحة التقييم التي تعرض مقاييس الاسترجاع ونتائج التحسين المتحققة"
+            }
+        },
+
+        {
+            src:
+                "images/ragops/ragops-architecture.jpg",
+
+            caption: {
+                en: "Multi-Agent Architecture and Controlled RAG Optimization Workflow",
+                ar: "معمارية النظام متعدد الوكلاء وسير عمل تحسين RAG بشكل مضبوط"
+            }
+        }
+
+    ]
+},
+
+
+"crisistrainer": {
+
     "crisistrainer": {
 
         title: {
@@ -1104,7 +1248,7 @@ const projectGalleries = {
         ]
     }
 
-};
+}};
 
 /* =================================
    Certificate Series Data
