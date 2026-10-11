@@ -113,8 +113,6 @@ const translations = {
         ragopsImageAlt:
             "RAGOps Agent overview showing the four-agent retrieval optimization workflow",
 
-        viewLiveDemo:
-            "Live Demo",
 
         crisisType: "Graduation Project",
 
@@ -245,6 +243,9 @@ const translations = {
 
         sdaDuration:
             "7-Week Program",
+
+        sdaMode:
+        "Online",
 
         sdaPointOne:
             "Contributed within a team to the end-to-end development of RAGOps Agent, a multi-agent optimization layer for RAG systems, with a primary focus on retrieval evaluation and diagnosis.",
@@ -587,9 +588,6 @@ const translations = {
         ragopsImageAlt:
             "نظرة عامة على RAGOps Agent توضح سير عمل تحسين الاسترجاع باستخدام أربعة وكلاء",
 
-        viewLiveDemo:
-            "التجربة المباشرة",
-
         crisisType: "مشروع التخرج",
 
         crisisSubtitle:
@@ -719,6 +717,9 @@ const translations = {
 
         sdaDuration:
             "برنامج لمدة 7 أسابيع",
+
+        sdaMode:
+         "عن بُعد",
 
         sdaPointOne:
             "ساهمت ضمن فريق في تطوير RAGOps Agent من البداية إلى النهاية كنظام متعدد الوكلاء لتحسين أنظمة RAG، مع تركيز أساسي على تقييم الاسترجاع وتشخيص أسباب الفشل.",
