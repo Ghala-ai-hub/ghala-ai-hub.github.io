@@ -322,6 +322,9 @@ const translations = {
         certificationsSubtitle:
         "Selected certifications, completed coursework, and professional training across artificial intelligence, cloud computing, data analytics, IoT, and machine learning.",
 
+        agenticAiCategory:
+            "Agentic AI",
+
         cloudCategory:
             "Cloud Computing",
 
@@ -340,6 +343,9 @@ const translations = {
         machineLearningCategory:
             "Machine Learning",
 
+        sdaAgenticIssuer:
+            "Saudi Digital Academy (SDA) · In collaboration with WeCloudData",
+
         sdaIssuer:
             "Saudi Digital Academy",
 
@@ -351,6 +357,9 @@ const translations = {
 
         doroobIssuer:
             "Doroob",
+
+        sdaAgenticCompletedDate:
+            "Completed October 2026",
 
         awsCompletedDate:
             "Completed in February 2024",
@@ -797,6 +806,9 @@ const translations = {
         certificationsSubtitle:
         "مجموعة مختارة من الشهادات والدورات المكتملة والبرامج التدريبية المهنية في الذكاء الاصطناعي والحوسبة السحابية وتحليل البيانات وإنترنت الأشياء وتعلم الآلة.",
 
+        agenticAiCategory:
+            "الذكاء الاصطناعي الوكيل",
+
         cloudCategory:
             "الحوسبة السحابية",
 
@@ -815,6 +827,9 @@ const translations = {
         machineLearningCategory:
             "تعلم الآلة",
 
+        sdaAgenticIssuer:
+            "الأكاديمية السعودية الرقمية (SDA) · بالتعاون مع WeCloudData",
+
         sdaIssuer:
             "الأكاديمية السعودية الرقمية",
 
@@ -826,6 +841,9 @@ const translations = {
 
         doroobIssuer:
             "دروب",
+
+        sdaAgenticCompletedDate:
+            "أُكمل في أكتوبر 2026",
 
         awsCompletedDate:
             "أُكمل في فبراير 2024",
