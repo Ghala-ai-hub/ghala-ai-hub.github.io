@@ -230,7 +230,7 @@ const translations = {
         "Hands-on training and project experience in agentic AI, AI application development, data organization, technical documentation, and team collaboration.",
 
         sdaExperienceType:
-    "Agentic AI Engineering Program",
+    "Agentic AI Bootcamp",
 
         sdaRole:
             "Agentic AI Engineering Trainee",
@@ -242,7 +242,7 @@ const translations = {
             "Completed October 2026",
 
         sdaDuration:
-            "7-Week Program",
+            "7-Week Bootcamp",
 
         sdaMode:
         "Online",
@@ -713,7 +713,7 @@ const translations = {
         "خبرات تدريبية وتطبيقية في الذكاء الاصطناعي الوكيل، وتطوير تطبيقات الذكاء الاصطناعي، وتنظيم البيانات، والتوثيق التقني، والتعاون ضمن فرق العمل.",
 
         sdaExperienceType:
-        "برنامج هندسة الذكاء الاصطناعي الوكيل",
+        "معسكر الذكاء الاصطناعي الوكيل",
 
         sdaRole:
             "متدربة في هندسة الذكاء الاصطناعي الوكيل",
@@ -725,7 +725,7 @@ const translations = {
             "أُكمل في أكتوبر 2026",
 
         sdaDuration:
-            "برنامج لمدة 7 أسابيع",
+            "معسكر لمدة 7 أسابيع",
 
         sdaMode:
          "عن بُعد",
