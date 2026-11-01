@@ -359,7 +359,7 @@ const translations = {
             "Doroob",
 
         sdaAgenticCompletedDate:
-            "Completed October 2026",
+            "7-Week Bootcamp · Completed October 2026",
 
         awsCompletedDate:
             "Completed in February 2024",
@@ -843,7 +843,7 @@ const translations = {
             "دروب",
 
         sdaAgenticCompletedDate:
-            "أُكمل في أكتوبر 2026",
+            "معسكر لمدة 7 أسابيع · أُكمل في أكتوبر 2026",
 
         awsCompletedDate:
             "أُكمل في فبراير 2024",
